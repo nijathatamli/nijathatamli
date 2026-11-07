@@ -20,7 +20,7 @@ I like complex problems, learning new tools quickly, and turning ideas into prac
 
 ## What I work on
 
-| | |
+| Area | Focus |
 |---|---|
 | **Applied AI / computer vision** | YOLO-based detection, NLP classification, ML-driven recommendations, local-model tooling |
 | **Full-stack products** | Next.js / TypeScript, Node.js, FastAPI, PostgreSQL, role-based admin panels, auth |
@@ -29,7 +29,7 @@ I like complex problems, learning new tools quickly, and turning ideas into prac
 
 ## Achievements
 
-| | |
+| Category | Highlights |
 |---|---|
 | 🏆 **Hackathons** | Winner of **five hackathons** · 1st place at **AzCON Future Tech** (Milli Cloud Security) · 1st place at **AI for Cyber** · 2nd place at **Metro Hackathon** |
 | 🛡️ **Cybersecurity** | 4th place, **Cybersecurity Republic CTF Challenge** (AKTA) |
