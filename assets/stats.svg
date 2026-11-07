@@ -3,14 +3,14 @@
 <clipPath id="r"><rect width="1200" height="250" rx="18"/></clipPath></defs>
 <g clip-path="url(#r)"><rect width="1200" height="250" fill="url(#bg)"/>
 <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
-<text x="40" y="95" font-size="46" font-weight="800" fill="#e6edf3">31<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.00s" fill="freeze"/></text><text x="40" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">PUBLIC REPOS</text>
+<text x="40" y="95" font-size="46" font-weight="800" fill="#e6edf3">32<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.00s" fill="freeze"/></text><text x="40" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">PUBLIC REPOS</text>
 <text x="330" y="95" font-size="46" font-weight="800" fill="#e6edf3">18<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15s" fill="freeze"/></text><text x="330" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">FOLLOWERS</text>
 <text x="40" y="200" font-size="46" font-weight="800" fill="#e6edf3">5<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30s" fill="freeze"/></text><text x="40" y="226" font-size="14" fill="#7d8ea8" letter-spacing=".5">HACKATHONS WON</text>
 <text x="330" y="200" font-size="46" font-weight="800" fill="#e6edf3">10+<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.45s" fill="freeze"/></text><text x="330" y="226" font-size="14" fill="#7d8ea8" letter-spacing=".5">COMPETITIONS</text>
 <text x="660" y="48" font-size="14" fill="#7d8ea8" letter-spacing=".5">TOP LANGUAGES  (public repositories)</text>
 <clipPath id="bar"><rect x="660" y="70" width="500" height="16" rx="8"/></clipPath><g clip-path="url(#bar)">
-<rect x="660.0" y="70" width="294.1" height="16" fill="#3572A5"/>
-<rect x="954.1" y="70" width="103.5" height="16" fill="#e34c26"/>
+<rect x="660.0" y="70" width="294.2" height="16" fill="#3572A5"/>
+<rect x="954.2" y="70" width="103.5" height="16" fill="#e34c26"/>
 <rect x="1057.7" y="70" width="80.3" height="16" fill="#3178c6"/>
 <rect x="1138.0" y="70" width="17.0" height="16" fill="#f1e05a"/>
 <rect x="1155.0" y="70" width="3.3" height="16" fill="#9b6bd1"/>
