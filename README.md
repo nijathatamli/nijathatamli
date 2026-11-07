@@ -41,6 +41,16 @@ I like complex problems, learning new tools quickly, and turning ideas into prac
 | 🤖 **Robotics** | Competitor at the **World Robotics Championship (WRC)** and **World Robot Olympiad (WRO)** |
 | 🌍 **Experience** | 10+ hackathons, programming competitions, cybersecurity events and international bootcamps |
 
+## Portfolio
+
+<p align="center">
+  <a href="https://nijat.tech" title="Open nijat.tech">
+    <img src="assets/portfolio.jpg" alt="Preview of nijat.tech, Nijat's portfolio website" width="100%">
+  </a>
+  <br>
+  <a href="https://nijat.tech"><b>Visit nijat.tech &rarr;</b></a>
+</p>
+
 ## Selected projects
 
 | Project | What it does | Stack |
