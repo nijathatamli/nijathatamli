@@ -10,6 +10,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="220" alt="Rick and Morty">
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## About
