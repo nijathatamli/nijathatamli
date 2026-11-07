@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="f1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff" stop-opacity=".35"/><stop offset="1" stop-color="#a371f7" stop-opacity=".35"/></linearGradient>
+    <linearGradient id="f2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a371f7" stop-opacity=".25"/><stop offset="1" stop-color="#3fb950" stop-opacity=".25"/></linearGradient>
+    <clipPath id="ff"><rect width="1200" height="120" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#ff)">
+    <rect width="1200" height="120" fill="#0b1220"/>
+    <path fill="url(#f1)" d="M0 60 C 150 20 300 100 450 60 S 750 20 900 60 S 1050 100 1200 60 S 1350 20 1500 60 S 1650 100 1800 60 S 2100 20 2250 60 V 120 H0 Z"><animateTransform attributeName="transform" type="translate" values="0 0;-600 0" dur="18s" repeatCount="indefinite"/></path>
+    <path fill="url(#f2)" d="M0 80 C 200 50 350 110 600 80 S 900 45 1200 80 S 1500 110 1800 80 S 2100 45 2400 80 V 120 H0 Z"><animateTransform attributeName="transform" type="translate" values="-600 0;0 0" dur="24s" repeatCount="indefinite"/></path>
+    <text x="600.0" y="42" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#9fb3c8" letter-spacing="1">Thanks for stopping by  ·  nijat.tech</text>
+  </g>
+</svg>
