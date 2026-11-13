@@ -3,23 +3,23 @@
 <clipPath id="r"><rect width="1200" height="250" rx="18"/></clipPath></defs>
 <g clip-path="url(#r)"><rect width="1200" height="250" fill="url(#bg)"/>
 <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
-<text x="40" y="95" font-size="46" font-weight="800" fill="#e6edf3">32<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.00s" fill="freeze"/></text><text x="40" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">PUBLIC REPOS</text>
-<text x="330" y="95" font-size="46" font-weight="800" fill="#e6edf3">18<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15s" fill="freeze"/></text><text x="330" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">FOLLOWERS</text>
+<text x="40" y="95" font-size="46" font-weight="800" fill="#e6edf3">31<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.00s" fill="freeze"/></text><text x="40" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">PUBLIC REPOS</text>
+<text x="330" y="95" font-size="46" font-weight="800" fill="#e6edf3">17<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15s" fill="freeze"/></text><text x="330" y="121" font-size="14" fill="#7d8ea8" letter-spacing=".5">FOLLOWERS</text>
 <text x="40" y="200" font-size="46" font-weight="800" fill="#e6edf3">5<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30s" fill="freeze"/></text><text x="40" y="226" font-size="14" fill="#7d8ea8" letter-spacing=".5">HACKATHONS WON</text>
 <text x="330" y="200" font-size="46" font-weight="800" fill="#e6edf3">10+<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.45s" fill="freeze"/></text><text x="330" y="226" font-size="14" fill="#7d8ea8" letter-spacing=".5">COMPETITIONS</text>
 <text x="660" y="48" font-size="14" fill="#7d8ea8" letter-spacing=".5">TOP LANGUAGES  (public repositories)</text>
 <clipPath id="bar"><rect x="660" y="70" width="500" height="16" rx="8"/></clipPath><g clip-path="url(#bar)">
-<rect x="660.0" y="70" width="293.8" height="16" fill="#3572A5"/>
-<rect x="953.8" y="70" width="103.3" height="16" fill="#e34c26"/>
-<rect x="1057.1" y="70" width="80.6" height="16" fill="#3178c6"/>
-<rect x="1137.7" y="70" width="17.0" height="16" fill="#f1e05a"/>
-<rect x="1154.7" y="70" width="3.6" height="16" fill="#9b6bd1"/>
-<rect x="1158.3" y="70" width="1.7" height="16" fill="#dea584"/>
+<rect x="660.0" y="70" width="386.7" height="16" fill="#3572A5"/>
+<rect x="1046.7" y="70" width="78.6" height="16" fill="#3178c6"/>
+<rect x="1125.3" y="70" width="17.1" height="16" fill="#e34c26"/>
+<rect x="1142.4" y="70" width="12.5" height="16" fill="#f1e05a"/>
+<rect x="1154.9" y="70" width="2.8" height="16" fill="#9b6bd1"/>
+<rect x="1157.7" y="70" width="2.3" height="16" fill="#dea584"/>
 </g>
-<circle cx="666" cy="120" r="6" fill="#3572A5"/><text x="680" y="125" font-size="16" fill="#c9d1d9">Python <tspan fill="#7d8ea8">58.1%</tspan></text>
-<circle cx="916" cy="120" r="6" fill="#e34c26"/><text x="930" y="125" font-size="16" fill="#c9d1d9">HTML <tspan fill="#7d8ea8">20.4%</tspan></text>
-<circle cx="666" cy="156" r="6" fill="#3178c6"/><text x="680" y="161" font-size="16" fill="#c9d1d9">TypeScript <tspan fill="#7d8ea8">15.9%</tspan></text>
-<circle cx="916" cy="156" r="6" fill="#f1e05a"/><text x="930" y="161" font-size="16" fill="#c9d1d9">JavaScript <tspan fill="#7d8ea8">3.4%</tspan></text>
-<circle cx="666" cy="192" r="6" fill="#9b6bd1"/><text x="680" y="197" font-size="16" fill="#c9d1d9">CSS <tspan fill="#7d8ea8">0.7%</tspan></text>
-<circle cx="916" cy="192" r="6" fill="#dea584"/><text x="930" y="197" font-size="16" fill="#c9d1d9">Rust <tspan fill="#7d8ea8">0.3%</tspan></text>
+<circle cx="666" cy="120" r="6" fill="#3572A5"/><text x="680" y="125" font-size="16" fill="#c9d1d9">Python <tspan fill="#7d8ea8">76.4%</tspan></text>
+<circle cx="916" cy="120" r="6" fill="#3178c6"/><text x="930" y="125" font-size="16" fill="#c9d1d9">TypeScript <tspan fill="#7d8ea8">15.5%</tspan></text>
+<circle cx="666" cy="156" r="6" fill="#e34c26"/><text x="680" y="161" font-size="16" fill="#c9d1d9">HTML <tspan fill="#7d8ea8">3.4%</tspan></text>
+<circle cx="916" cy="156" r="6" fill="#f1e05a"/><text x="930" y="161" font-size="16" fill="#c9d1d9">JavaScript <tspan fill="#7d8ea8">2.5%</tspan></text>
+<circle cx="666" cy="192" r="6" fill="#9b6bd1"/><text x="680" y="197" font-size="16" fill="#c9d1d9">CSS <tspan fill="#7d8ea8">0.6%</tspan></text>
+<circle cx="916" cy="192" r="6" fill="#dea584"/><text x="930" y="197" font-size="16" fill="#c9d1d9">Rust <tspan fill="#7d8ea8">0.5%</tspan></text>
 </g></g></svg>
